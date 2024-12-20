@@ -17,7 +17,7 @@
 					
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
-    <version>2.19.1</version>
+    <version>3.11.0</version>
     <configuration>
         <suiteXmlFiles>
             <suiteXmlFile>testng_ST.xml</suiteXmlFile>
@@ -35,7 +35,7 @@
 					
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
-    <version>2.19.1</version>
+    <version>3.11.0</version>
     <configuration>
         <suiteXmlFiles>
             <suiteXmlFile>testng_RT.xml</suiteXmlFile>
