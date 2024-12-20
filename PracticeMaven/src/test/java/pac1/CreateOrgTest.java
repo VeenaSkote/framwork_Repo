@@ -10,8 +10,11 @@ public class CreateOrgTest {
 	}
 	
 	@Test
-	public void modifyOrgTest() {
-		System.out.println("modify org name");
+	public void modifyContactTest() {
+		System.out.println("modify contact name");
 	}
 
+	public void deleteOrgTest() {
+		System.out.println("delete contact name");
+	}
 }
